@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :us:	 | Olá :brazil:👋
 
 - 🔭 I’m currently working on refactoring the biggest B2B app in the world.
 - 🌱 I’m currently learning DevOps, Javascript and Swift.
